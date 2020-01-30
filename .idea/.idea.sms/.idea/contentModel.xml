@@ -1,0 +1,84 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ContentModelStore">
+    <e p="C:\Users\Nati\.Rider2019.1\system\extResources" t="IncludeRecursive" />
+    <e p="C:\Users\Nati\.Rider2019.1\system\resharper-host\local\Transient\ReSharperHost\v191\SolutionCaches\_sms.-1309743028.00" t="ExcludeRecursive" />
+    <e p="C:\Users\Nati\Desktop\SMS\SMS" t="IncludeFlat">
+      <e p="packages" t="ExcludeRecursive" />
+      <e p="SMS" t="IncludeRecursive">
+        <e p="AdminPage.xaml" t="Include" />
+        <e p="AdminPage.xaml.cs" t="Include" />
+        <e p="App.config" t="Include" />
+        <e p="App.xaml" t="Include" />
+        <e p="App.xaml.cs" t="Include" />
+        <e p="Authentication" t="Include">
+          <e p="AuthenticateUser.cs" t="Include" />
+        </e>
+        <e p="bin" t="ExcludeRecursive" />
+        <e p="FirebaseConfig" t="Include">
+          <e p="Firebase_Config.cs" t="Include" />
+        </e>
+        <e p="MainWindow.xaml" t="Include" />
+        <e p="MainWindow.xaml.cs" t="Include" />
+        <e p="models" t="Include">
+          <e p="Admin.cs" t="Include" />
+          <e p="ClassRoom.cs" t="Include" />
+          <e p="Result.cs" t="Include" />
+          <e p="Student.cs" t="Include" />
+          <e p="Subject.cs" t="Include" />
+          <e p="Task.cs" t="Include" />
+          <e p="Teacher.cs" t="Include" />
+          <e p="User.cs" t="Include" />
+        </e>
+        <e p="obj" t="ExcludeRecursive" />
+        <e p="Properties" t="Include">
+          <e p="AssemblyInfo.cs" t="Include" />
+          <e p="Resources.Designer.cs" t="Include" />
+          <e p="Resources.resx" t="Include" />
+        </e>
+        <e p="Services" t="Include">
+          <e p="adminServices" t="Include">
+            <e p="IAdminRepository.cs" t="Include" />
+            <e p="IAdminUsecase.cs" t="Include" />
+            <e p="Repository" t="Include">
+              <e p="Firebase_Admin.cs" t="Include" />
+            </e>
+            <e p="Usecase" t="Include">
+              <e p="Admin_Usecase.cs" t="Include" />
+            </e>
+          </e>
+          <e p="StudentServices" t="Include">
+            <e p="IStudentRepository.cs" t="Include" />
+            <e p="IStudentUsecase.cs" t="Include" />
+            <e p="Repository" t="Include">
+              <e p="Firebase_student.cs" t="Include" />
+            </e>
+            <e p="Usecase" t="Include">
+              <e p="Student_Usecase.cs" t="Include" />
+            </e>
+          </e>
+          <e p="TeacherServices" t="Include">
+            <e p="ITeacherRepository.cs" t="Include" />
+            <e p="ITeacherUsecase.cs" t="Include" />
+            <e p="Repository" t="Include">
+              <e p="Firebase_Teacher.cs" t="Include" />
+            </e>
+            <e p="Usecase" t="Include">
+              <e p="Teacher_Usecase.cs" t="Include" />
+            </e>
+          </e>
+        </e>
+        <e p="sms.csproj" t="IncludeRecursive" />
+        <e p="StudentPage.xaml" t="Include" />
+        <e p="StudentPage.xaml.cs" t="Include" />
+        <e p="TeacherPage.xaml" t="Include" />
+        <e p="TeacherPage.xaml.cs" t="Include" />
+        <e p="Utils" t="Include">
+          <e p="ConnectionUtil.cs" t="Include" />
+          <e p="Encrypt.cs" t="Include" />
+        </e>
+      </e>
+      <e p="sms.sln" t="IncludeFlat" />
+    </e>
+  </component>
+</project>

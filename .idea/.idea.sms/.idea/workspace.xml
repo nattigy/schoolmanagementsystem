@@ -1,0 +1,724 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="aabf8421-53c5-480d-8ff0-0eae4e48f422" name="Default Changelist" comment="" />
+    <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FileEditorManager">
+    <leaf />
+  </component>
+  <component name="HighlightingSettingsPerFile">
+    <setting file="file://$PROJECT_DIR$/sms/Utils/Encrypt.cs" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/sms/Authentication/AuthenticateUser.cs" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/sms/FirebaseConfig/Firebase_Config.cs" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/sms/Services/TeacherServices/Usecase/Teacher_Usecase.cs" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/sms/Services/TeacherServices/Repository/Firebase_Teacher.cs" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/sms/Services/StudentServices/Usecase/Student_Usecase.cs" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/sms/Services/StudentServices/Repository/Firebase_student.cs" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/sms/Services/AdminServices/Usecase/Admin_Usecase.cs" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/sms/Services/AdminServices/Repository/Firebase_Admin.cs" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/sms/Services/TeacherServices/ITeacherRepository.cs" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/sms/Services/TeacherServices/ITeacherUsecase.cs" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/sms/Services/StudentServices/IStudentRepository.cs" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/sms/Services/StudentServices/IStudentUsecase.cs" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/sms/Services/AdminServices/IAdminRepository.cs" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/sms/Services/AdminServices/IAdminUsecase.cs" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/sms/Models/Task.cs" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/sms/Models/ClassRoom.cs" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/sms/MainWindow.xaml.cs" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/sms/App.xaml" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/sms/Models/Subject.cs" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/sms/MainWindow.xaml" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/sms/Models/Result.cs" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/sms/Models/Teacher.cs" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/sms/App.xaml.cs" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/sms/Models/Admin.cs" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/sms/Models/Student.cs" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/sms/Models/User.cs" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/sms/TeacherPage.xaml.cs" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/sms/TeacherPage.xaml" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/sms/StudentPage.xaml.cs" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/sms/AdminPage.xaml.cs" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/sms/AdminPage.xaml" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/sms/Utils/ConnectionUtil.cs" root0="FORCE_HIGHLIGHTING" />
+  </component>
+  <component name="IdeDocumentHistory">
+    <option name="CHANGED_PATHS">
+      <list>
+        <option value="$PROJECT_DIR$/sms/Models/Admin.cs" />
+        <option value="$PROJECT_DIR$/sms/Models/Student.cs" />
+        <option value="$PROJECT_DIR$/sms/Models/ClassRoom.cs" />
+        <option value="$PROJECT_DIR$/sms/Models/Subject.cs" />
+        <option value="$PROJECT_DIR$/sms/Models/Teacher.cs" />
+        <option value="$PROJECT_DIR$/sms/Models/Task.cs" />
+        <option value="$PROJECT_DIR$/sms/Models/Result.cs" />
+        <option value="$PROJECT_DIR$/sms/AdminServices/IAdminRepository.cs" />
+        <option value="$PROJECT_DIR$/sms/StudentServices/IStudentRepository.cs" />
+        <option value="$PROJECT_DIR$/sms/StudentServices/IStudentUsecase.cs" />
+        <option value="$PROJECT_DIR$/sms/TeacherServices/ITeacherRepository.cs" />
+        <option value="$PROJECT_DIR$/sms/TeacherServices/ITeacherUsecase.cs" />
+        <option value="$PROJECT_DIR$/sms/StudentServices/Usecase/Student_Usecase.cs" />
+        <option value="$PROJECT_DIR$/sms/TeacherServices/Usecase/Teacher_Usecase.cs" />
+        <option value="$PROJECT_DIR$/sms/StudentServices/Repository/Firebase_student.cs" />
+        <option value="$PROJECT_DIR$/sms/TeacherServices/Repository/Firebase_Teacher.cs" />
+        <option value="$PROJECT_DIR$/sms/AdminServices/IAdminUsecase.cs" />
+        <option value="$PROJECT_DIR$/sms/AdminServices/Usecase/Admin_Usecase.cs" />
+        <option value="$PROJECT_DIR$/sms/AdminServices/Repository/Firebase_Admin.cs" />
+        <option value="$PROJECT_DIR$/sms/Utils/Encrypt.cs" />
+        <option value="$PROJECT_DIR$/sms/Services/TeacherServices/Usecase/Teacher_Usecase.cs" />
+        <option value="$PROJECT_DIR$/sms/Services/TeacherServices/ITeacherRepository.cs" />
+        <option value="$PROJECT_DIR$/sms/Services/TeacherServices/ITeacherUsecase.cs" />
+        <option value="$PROJECT_DIR$/sms/Services/AdminServices/Usecase/Admin_Usecase.cs" />
+        <option value="$PROJECT_DIR$/sms/Services/AdminServices/IAdminRepository.cs" />
+        <option value="$PROJECT_DIR$/sms/Services/AdminServices/IAdminUsecase.cs" />
+        <option value="$PROJECT_DIR$/sms/Services/StudentServices/Usecase/Student_Usecase.cs" />
+        <option value="$PROJECT_DIR$/sms/Services/StudentServices/IStudentRepository.cs" />
+        <option value="$PROJECT_DIR$/sms/Services/StudentServices/IStudentUsecase.cs" />
+        <option value="$PROJECT_DIR$/sms/Utils/ConnectionUtil.cs" />
+        <option value="$PROJECT_DIR$/sms/Services/AdminServices/Repository/Firebase_Admin.cs" />
+        <option value="$PROJECT_DIR$/sms/Services/StudentServices/Repository/Firebase_student.cs" />
+        <option value="$PROJECT_DIR$/sms/Services/TeacherServices/Repository/Firebase_Teacher.cs" />
+        <option value="$PROJECT_DIR$/sms/FirebaseConfig/Firebase_Config.cs" />
+        <option value="$PROJECT_DIR$/sms/sms.csproj" />
+        <option value="$PROJECT_DIR$/sms/MainWindow.xaml" />
+        <option value="$PROJECT_DIR$/sms/AdminPage.xaml" />
+        <option value="$PROJECT_DIR$/sms/Models/User.cs" />
+        <option value="$PROJECT_DIR$/sms/Authentication/AuthenticateUser.cs" />
+        <option value="$PROJECT_DIR$/sms/AdminPage.xaml.cs" />
+        <option value="$PROJECT_DIR$/sms/StudentPage.xaml.cs" />
+        <option value="$PROJECT_DIR$/sms/TeacherPage.xaml.cs" />
+        <option value="$PROJECT_DIR$/sms/MainWindow.xaml.cs" />
+      </list>
+    </option>
+  </component>
+  <component name="ProjectFrameBounds" extendedState="6">
+    <option name="x" value="10" />
+    <option name="y" value="20" />
+    <option name="width" value="1346" />
+    <option name="height" value="698" />
+  </component>
+  <component name="ProjectView">
+    <navigator currentView="SolutionExplorer" proportions="" version="1">
+      <autoscrollToSource AssemblyExplorer="true" />
+      <autoscrollFromSource AssemblyExplorer="true" />
+      <foldersAlwaysOnTop value="true" />
+    </navigator>
+    <panes>
+      <pane id="SolutionExplorer">
+        <subPane>
+          <expand>
+            <path>
+              <item name="Project" type="784c90a0:SolutionExplorerRootNode" />
+              <item name="sms" type="24d0babc:SolutionExplorerModelNode" />
+            </path>
+            <path>
+              <item name="Project" type="784c90a0:SolutionExplorerRootNode" />
+              <item name="sms" type="24d0babc:SolutionExplorerModelNode" />
+              <item name="sms" type="24d0babc:SolutionExplorerModelNode" />
+            </path>
+          </expand>
+          <select />
+        </subPane>
+        <option name="show-all-files" value="false" />
+      </pane>
+      <pane id="FileSystemExplorer">
+        <subPane>
+          <expand>
+            <path>
+              <item name="Project" type="161ac34:FileSystemExplorerRootNode" />
+              <item name="sms" type="34e6ba20:FileSystemExplorerNode" />
+            </path>
+          </expand>
+          <select />
+        </subPane>
+      </pane>
+      <pane id="AssemblyExplorer" />
+    </panes>
+  </component>
+  <component name="PropertiesComponent">
+    <property name="Rider.DefaultBreakpoints.AreToggled" value="true" />
+    <property name="Rider.ProjectViewActivator.IsNotFirstRun" value="true" />
+    <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="nodejs_interpreter_path.stuck_in_default_project" value="undefined stuck path" />
+    <property name="nodejs_npm_path_reset_for_default_project" value="true" />
+  </component>
+  <component name="RunDashboard">
+    <option name="ruleStates">
+      <list>
+        <RuleState>
+          <option name="name" value="ConfigurationTypeDashboardGroupingRule" />
+        </RuleState>
+        <RuleState>
+          <option name="name" value="StatusDashboardGroupingRule" />
+        </RuleState>
+      </list>
+    </option>
+  </component>
+  <component name="RunManager">
+    <configuration name="Default" type="DotNetProject" factoryName=".NET Project">
+      <option name="EXE_PATH" value="$PROJECT_DIR$/sms/bin/Debug/sms.exe" />
+      <option name="PROGRAM_PARAMETERS" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/sms/bin/Debug" />
+      <option name="PASS_PARENT_ENVS" value="1" />
+      <option name="USE_EXTERNAL_CONSOLE" value="0" />
+      <option name="USE_MONO" value="0" />
+      <option name="RUNTIME_ARGUMENTS" value="" />
+      <option name="PROJECT_PATH" value="$PROJECT_DIR$/sms/sms.csproj" />
+      <option name="PROJECT_EXE_PATH_TRACKING" value="1" />
+      <option name="PROJECT_ARGUMENTS_TRACKING" value="1" />
+      <option name="PROJECT_WORKING_DIRECTORY_TRACKING" value="1" />
+      <option name="PROJECT_KIND" value="Console" />
+      <option name="PROJECT_TFM" value=".NETFramework,Version=v4.7.2" />
+      <method v="2">
+        <option name="Build" enabled="true" />
+      </method>
+    </configuration>
+  </component>
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="aabf8421-53c5-480d-8ff0-0eae4e48f422" name="Default Changelist" comment="" />
+      <created>1580404358886</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1580404358886</updated>
+      <workItem from="1580404362245" duration="9915000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TimeTrackingManager">
+    <option name="totallyTimeSpent" value="9915000" />
+  </component>
+  <component name="TodoView">
+    <todo-panel id="selected-file">
+      <is-autoscroll-to-source value="true" />
+    </todo-panel>
+    <todo-panel id="all">
+      <are-packages-shown value="true" />
+      <is-autoscroll-to-source value="true" />
+    </todo-panel>
+  </component>
+  <component name="ToolWindowManager">
+    <frame x="-8" y="-8" width="1382" height="754" extended-state="6" />
+    <layout>
+      <window_info id="Favorites" side_tool="true" />
+      <window_info content_ui="combo" id="Project" order="0" visible="true" weight="0.2494331" />
+      <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
+      <window_info anchor="bottom" id="NuGet" weight="0.32913387" />
+      <window_info anchor="bottom" id="Docker" show_stripe_button="false" />
+      <window_info anchor="bottom" id="Database Changes" />
+      <window_info anchor="bottom" id="Version Control" />
+      <window_info anchor="bottom" id="XAML Preview" />
+      <window_info anchor="bottom" id="Unit Tests" />
+      <window_info anchor="bottom" id="Terminal" />
+      <window_info anchor="bottom" id="Event Log" side_tool="true" />
+      <window_info anchor="bottom" id="Build" weight="0.32913387" />
+      <window_info anchor="bottom" id="Message" order="0" />
+      <window_info anchor="bottom" id="Find" order="1" weight="0.32913387" />
+      <window_info anchor="bottom" id="Run" order="2" weight="0.19527559" />
+      <window_info anchor="bottom" id="Debug" order="3" weight="0.4" />
+      <window_info anchor="bottom" id="Cvs" order="4" weight="0.25" />
+      <window_info anchor="bottom" id="Inspection" order="5" weight="0.4" />
+      <window_info anchor="bottom" id="TODO" order="6" />
+      <window_info anchor="right" id="Errors In Solution" />
+      <window_info anchor="right" id="Database" />
+      <window_info anchor="right" id="Commander" internal_type="SLIDING" order="0" type="SLIDING" weight="0.4" />
+      <window_info anchor="right" id="Ant Build" order="1" weight="0.25" />
+      <window_info anchor="right" content_ui="combo" id="Hierarchy" order="2" weight="0.25" />
+    </layout>
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="1" />
+  </component>
+  <component name="UnityProjectConfiguration" hasMinimizedUI="null" />
+  <component name="UnityUnitTestConfiguration" currentTestLauncher="NUnit" />
+  <component name="XDebuggerManager">
+    <breakpoint-manager>
+      <breakpoints>
+        <breakpoint enabled="true" suspend="NONE" type="DotNet Exception Breakpoints">
+          <properties exception="System.Threading.ThreadAbortException" displayValue="System.Threading.ThreadAbortException" />
+          <option name="timeStamp" value="1" />
+        </breakpoint>
+      </breakpoints>
+    </breakpoint-manager>
+  </component>
+  <component name="editorHistoryManager">
+    <entry file="file://$PROJECT_DIR$/sms/Models/Admin.cs">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="187">
+          <caret line="11" column="44" selection-start-line="6" selection-start-column="8" selection-end-line="11" selection-end-column="44" />
+          <folding>
+            <marker date="1580411430838" expanded="true" signature="20:321" ph="{...}" />
+            <marker date="1580411430838" expanded="true" signature="45:319" ph="{...}" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/sms/Models/ClassRoom.cs">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="136">
+          <caret line="8" column="1" selection-start-line="8" selection-start-column="1" selection-end-line="8" selection-end-column="1" />
+          <folding>
+            <marker date="1580405245830" expanded="true" signature="20:194" ph="{...}" />
+            <marker date="1580405245830" expanded="true" signature="49:192" ph="{...}" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/sms/Models/Result.cs">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="204">
+          <caret line="12" column="1" lean-forward="true" selection-start-line="12" selection-start-column="1" selection-end-line="12" selection-end-column="1" />
+          <folding>
+            <marker date="1580405505668" expanded="true" signature="20:362" ph="{...}" />
+            <marker date="1580405505668" expanded="true" signature="46:360" ph="{...}" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/sms/Models/Subject.cs">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="102">
+          <caret line="6" column="40" selection-start-line="6" selection-start-column="40" selection-end-line="6" selection-end-column="40" />
+          <folding>
+            <marker date="1580405305178" expanded="true" signature="20:189" ph="{...}" />
+            <marker date="1580405305178" expanded="true" signature="47:187" ph="{...}" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/sms/Models/Task.cs">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="170">
+          <caret line="10" column="1" lean-forward="true" selection-start-line="10" selection-start-column="1" selection-end-line="10" selection-end-column="1" />
+          <folding>
+            <marker date="1580405420953" expanded="true" signature="20:281" ph="{...}" />
+            <marker date="1580405420953" expanded="true" signature="44:279" ph="{...}" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/sms/App.xaml.cs">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="136">
+          <caret line="8" column="1" lean-forward="true" selection-start-line="8" selection-start-column="1" selection-end-line="8" selection-end-column="1" />
+          <folding>
+            <marker date="1580411430984" expanded="true" signature="13:138" ph="{...}" />
+            <marker date="1580411430984" expanded="true" signature="20:95" ph="/// Interaction logic for App.xaml ... " />
+            <marker date="1580411430984" expanded="true" signature="124:136" ph="{...}" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/sms/Models/Student.cs">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="119">
+          <caret line="7" column="30" selection-start-line="7" selection-start-column="22" selection-end-line="7" selection-end-column="30" />
+          <folding>
+            <marker date="1580405148268" expanded="true" signature="20:371" ph="{...}" />
+            <marker date="1580405148268" expanded="true" signature="47:369" ph="{...}" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/sms/Services/TeacherServices/ITeacherRepository.cs">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="34">
+          <caret line="2" column="27" lean-forward="true" selection-start-line="2" selection-start-column="27" selection-end-line="2" selection-end-column="27" />
+          <folding>
+            <marker date="1580410819704" expanded="true" signature="57:175" ph="{...}" />
+            <marker date="1580410819704" expanded="true" signature="99:173" ph="{...}" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/sms/Services/TeacherServices/ITeacherUsecase.cs">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="34">
+          <caret line="2" column="31" selection-start-line="2" selection-start-column="31" selection-end-line="2" selection-end-column="31" />
+          <folding>
+            <marker date="1580410824600" expanded="true" signature="57:172" ph="{...}" />
+            <marker date="1580410824600" expanded="true" signature="96:170" ph="{...}" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/sms/Services/AdminServices/IAdminRepository.cs">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="68">
+          <caret line="4" column="27" selection-start-line="4" selection-start-column="27" selection-end-line="4" selection-end-column="27" />
+          <folding>
+            <marker date="1580410835714" expanded="true" signature="6:93" ph="..." />
+            <marker date="1580410835714" expanded="true" signature="131:443" ph="{...}" />
+            <marker date="1580410835714" expanded="true" signature="171:441" ph="{...}" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/sms/Services/StudentServices/IStudentRepository.cs">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="51">
+          <caret line="3" column="28" lean-forward="true" selection-start-line="3" selection-start-column="28" selection-end-line="3" selection-end-column="28" />
+          <folding>
+            <marker date="1580410832763" expanded="true" signature="6:51" ph="..." />
+            <marker date="1580410832763" expanded="true" signature="91:199" ph="{...}" />
+            <marker date="1580410832763" expanded="true" signature="133:197" ph="{...}" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/sms/Services/StudentServices/IStudentUsecase.cs">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="51">
+          <caret line="3" column="30" selection-start-line="3" selection-start-column="30" selection-end-line="3" selection-end-column="30" />
+          <folding>
+            <marker date="1580410833698" expanded="true" signature="6:51" ph="..." />
+            <marker date="1580410833698" expanded="true" signature="91:196" ph="{...}" />
+            <marker date="1580410833698" expanded="true" signature="130:194" ph="{...}" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/sms/Utils/Encrypt.cs">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="340">
+          <caret line="22" column="1" selection-start-line="22" selection-start-column="1" selection-end-line="22" selection-end-column="1" />
+          <folding>
+            <marker date="1580411430814" expanded="false" signature="6:54" ph="..." />
+            <marker date="1580411430814" expanded="true" signature="75:515" ph="{...}" />
+            <marker date="1580411430814" expanded="true" signature="102:513" ph="{...}" />
+            <marker date="1580411430814" expanded="true" signature="161:507" ph="{...}" />
+            <marker date="1580411430814" expanded="true" signature="409:453" ph="{...}" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/sms/Services/AdminServices/IAdminUsecase.cs">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="68">
+          <caret line="4" column="29" selection-start-line="4" selection-start-column="29" selection-end-line="4" selection-end-column="29" />
+          <folding>
+            <marker date="1580410836834" expanded="true" signature="6:93" ph="..." />
+            <marker date="1580410836834" expanded="true" signature="131:440" ph="{...}" />
+            <marker date="1580410836834" expanded="true" signature="168:438" ph="{...}" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/sms/Services/AdminServices/Usecase/Admin_Usecase.cs">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="68">
+          <caret line="4" column="26" lean-forward="true" selection-start-line="4" selection-start-column="26" selection-end-line="4" selection-end-column="26" />
+          <folding>
+            <marker date="1580411430864" expanded="true" signature="6:93" ph="..." />
+            <marker date="1580411430864" expanded="true" signature="139:1106" ph="{...}" />
+            <marker date="1580411430864" expanded="true" signature="187:1104" ph="{...}" />
+            <marker date="1580411430864" expanded="true" signature="306:364" ph="{...}" />
+            <marker date="1580411430864" expanded="true" signature="422:496" ph="{...}" />
+            <marker date="1580411430864" expanded="true" signature="554:628" ph="{...}" />
+            <marker date="1580411430864" expanded="true" signature="673:740" ph="{...}" />
+            <marker date="1580411430864" expanded="true" signature="785:852" ph="{...}" />
+            <marker date="1580411430864" expanded="true" signature="905:975" ph="{...}" />
+            <marker date="1580411430864" expanded="true" signature="1028:1098" ph="{...}" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/sms/Services/StudentServices/Usecase/Student_Usecase.cs">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="51">
+          <caret line="3" column="29" lean-forward="true" selection-start-line="3" selection-start-column="29" selection-end-line="3" selection-end-column="29" />
+          <folding>
+            <marker date="1580411430915" expanded="true" signature="6:51" ph="..." />
+            <marker date="1580411430915" expanded="true" signature="99:476" ph="{...}" />
+            <marker date="1580411430915" expanded="true" signature="151:474" ph="{...}" />
+            <marker date="1580411430915" expanded="true" signature="276:334" ph="{...}" />
+            <marker date="1580411430915" expanded="true" signature="393:468" ph="{...}" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/sms/Utils/ConnectionUtil.cs">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="340">
+          <caret line="20" column="33" lean-forward="true" selection-start-line="20" selection-start-column="33" selection-end-line="20" selection-end-column="33" />
+          <folding>
+            <marker date="1580411430827" expanded="true" signature="6:54" ph="..." />
+            <marker date="1580411430827" expanded="true" signature="75:703" ph="{...}" />
+            <marker date="1580411430827" expanded="true" signature="116:701" ph="{...}" />
+            <marker date="1580411430827" expanded="true" signature="253:695" ph="{...}" />
+            <marker date="1580411430827" expanded="true" signature="294:658" ph="{...}" />
+            <marker date="1580411430827" expanded="true" signature="314:548" ph="{...}" />
+            <marker date="1580411430827" expanded="true" signature="588:645" ph="{...}" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/sms/Services/TeacherServices/Repository/Firebase_Teacher.cs">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="221">
+          <caret line="13" column="9" selection-start-line="13" selection-start-column="9" selection-end-line="13" selection-end-column="9" />
+          <folding>
+            <marker date="1580411430962" expanded="true" signature="6:102" ph="..." />
+            <marker date="1580411430962" expanded="true" signature="153:589" ph="{...}" />
+            <marker date="1580411430962" expanded="true" signature="209:587" ph="{...}" />
+            <marker date="1580411430962" expanded="true" signature="373:443" ph="{...}" />
+            <marker date="1580411430962" expanded="true" signature="512:581" ph="{...}" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/sms/Services/StudentServices/Repository/Firebase_student.cs">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="238">
+          <caret line="14" column="9" selection-start-line="14" selection-start-column="9" selection-end-line="14" selection-end-column="9" />
+          <folding>
+            <marker date="1580411430939" expanded="true" signature="6:136" ph="..." />
+            <marker date="1580411430939" expanded="true" signature="187:613" ph="{...}" />
+            <marker date="1580411430939" expanded="true" signature="243:611" ph="{...}" />
+            <marker date="1580411430939" expanded="true" signature="407:477" ph="{...}" />
+            <marker date="1580411430939" expanded="true" signature="536:605" ph="{...}" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/sms/FirebaseConfig/Firebase_Config.cs">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="204">
+          <caret line="12" column="1" lean-forward="true" selection-start-line="12" selection-start-column="1" selection-end-line="12" selection-end-column="1" />
+          <folding>
+            <marker date="1580411437159" expanded="true" signature="57:374" ph="{...}" />
+            <marker date="1580411437159" expanded="true" signature="98:372" ph="{...}" />
+            <marker date="1580411437159" expanded="true" signature="205:365" ph="{...}" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/sms/AdminPage.xaml">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="-531">
+          <caret line="13" column="52" lean-forward="true" selection-start-line="13" selection-start-column="52" selection-end-line="13" selection-end-column="52" />
+          <folding>
+            <marker date="1580413210827" expanded="true" signature="0:6111" ph="&lt;&lt;Grid Background=&quot;##FFEEEEEE&quot; MouseDown=&quot;Grid_MouseDown&quot;&gt;&#10;        &lt;StackPanel VerticalAlignment=&quot;Top&quot;&gt;&#10;            &lt;Grid Background=&quot;##FF0069C0&quot; Height=&quot;10&quot; /&gt;&#10;            &lt;Grid Margin=&quot;5&quot;&gt;&#10;                &lt;StackPanel HorizontalAlignment=&quot;Center&quot; Orientation=&quot;Horizontal&quot;&gt;&#10;                    &lt;TextBlock Text=&quot;School Communication&quot; VerticalAlignment=&quot;Center&quot; FontSize=&quot;20&quot;&#10;                               FontFamily=&quot;Calibri Light&quot; Margin=&quot;20 0&quot; /&gt;&#10;                    &lt;Button Width=&quot;30&quot; Height=&quot;30&quot; Background=&quot;{x:Null}&quot; BorderBrush=&quot;{x:Null}&quot; Padding=&quot;0&quot;&#10;                            Foreground=&quot;Gray&quot;&gt;&#10;                        &lt;materialDesign:PackIcon Kind=&quot;FacebookBox&quot; /&gt;&#10;                    &lt;/Button&gt;&#10;                    &lt;Button Width=&quot;30&quot; Height=&quot;30&quot; Background=&quot;{x:Null}&quot; BorderBrush=&quot;{x:Null}&quot; Padding=&quot;0&quot;&#10;                            Foreground=&quot;Gray&quot;&gt;&#10;                        &lt;materialDesign:PackIcon Kind=&quot;TwitterBox&quot; /&gt;&#10;                    &lt;/Button&gt;&#10;                    &lt;Button Width=&quot;30&quot; Height=&quot;30&quot; Background=&quot;{x:Null}&quot; BorderBrush=&quot;{x:Null}&quot; Padding=&quot;0&quot;&#10;                            Foreground=&quot;Gray&quot;&gt;&#10;                        &lt;materialDesign:PackIcon Kind=&quot;GithubBox&quot; /&gt;&#10;                    &lt;/Button&gt;&#10;                &lt;/StackPanel&gt;&#10;                &lt;StackPanel Orientation=&quot;Horizontal&quot; HorizontalAlignment=&quot;Right&quot; Margin=&quot;10 0&quot;&gt;&#10;                    &lt;Button Width=&quot;30&quot; Height=&quot;30&quot; Background=&quot;{x:Null}&quot; BorderBrush=&quot;{x:Null}&quot; Padding=&quot;0&quot;&#10;                            Foreground=&quot;Gray&quot;&gt;&#10;                        &lt;materialDesign:PackIcon Kind=&quot;BellOutline&quot; /&gt;&#10;                    &lt;/Button&gt;&#10;                    &lt;Button Width=&quot;30&quot; Height=&quot;30&quot; Background=&quot;{x:Null}&quot; BorderBrush=&quot;{x:Null}&quot; Padding=&quot;0&quot;&#10;                            Foreground=&quot;Gray&quot; Margin=&quot;0 0 10 0&quot;&gt;&#10;                        &lt;materialDesign:PackIcon Kind=&quot;Settings&quot; /&gt;&#10;                    &lt;/Button&gt;&#10;                    &lt;Button x:Name=&quot;ButtonPower&quot; Click=&quot;ButtonPower_Click&quot; Width=&quot;30&quot; Height=&quot;30&quot; Background=&quot;{x:Null}&quot;&#10;                            BorderBrush=&quot;{x:Null}&quot; Padding=&quot;0&quot; Foreground=&quot;Gray&quot;&gt;&#10;                        &lt;materialDesign:PackIcon Kind=&quot;Power&quot; /&gt;&#10;                    &lt;/Button&gt;&#10;                &lt;/StackPanel&gt;&#10;            &lt;/Grid&gt;&#10;        &lt;/StackPanel&gt;&#10;        &lt;Grid Margin=&quot;250 55 0 0&quot;&gt;&#10;            &lt;Grid x:Name=&quot;MainGrid&quot; HorizontalAlignment=&quot;Center&quot; VerticalAlignment=&quot;Center&quot; /&gt;&#10;&#10;        &lt;/Grid&gt;&#10;        &lt;Grid Width=&quot;250&quot; HorizontalAlignment=&quot;Left&quot; Background=&quot;##FF222222&quot;&gt;&#10;            &lt;materialDesign:TransitioningContent x:Name=&quot;TransitioningContentSlide&quot;&#10;                                                 OpeningEffect=&quot;{materialDesign:TransitionEffect SlideInFromLeft, Duration=0:0:0.2}&quot;&gt;&#10;                &lt;Grid x:Name=&quot;GridCursor&quot; Margin=&quot;0 100 0 0&quot; Background=&quot;##FF0069C0&quot; Width=&quot;10&quot;&#10;                      HorizontalAlignment=&quot;Left&quot; Height=&quot;60&quot; VerticalAlignment=&quot;Top&quot; /&gt;&#10;            &lt;/materialDesign:TransitioningContent&gt;&#10;&#10;            &lt;ListView x:Name=&quot;ListViewMenu&quot; Margin=&quot;0 100&quot; Foreground=&quot;LightGray&quot; BorderThickness=&quot;0&quot;&#10;                      FontFamily=&quot;Champagne &amp;amp; Limousines&quot; Background=&quot;Transparent&quot;&#10;                      SelectionChanged=&quot;ListViewMenu_SelectionChanged&quot;&gt;&#10;                &lt;ListViewItem Height=&quot;60&quot;&gt;&#10;                    &lt;StackPanel Orientation=&quot;Horizontal&quot;&gt;&#10;                        &lt;materialDesign:PackIcon Kind=&quot;Home&quot; Width=&quot;30&quot; Height=&quot;30&quot; VerticalAlignment=&quot;Center&quot;&#10;                                                 Margin=&quot;5&quot; /&gt;&#10;                        &lt;TextBlock Text=&quot;Home&quot; FontSize=&quot;26&quot; VerticalAlignment=&quot;Center&quot; Margin=&quot;20 0&quot; /&gt;&#10;                    &lt;/StackPanel&gt;&#10;                &lt;/ListViewItem&gt;&#10;                &lt;ListViewItem Height=&quot;60&quot;&gt;&#10;                    &lt;StackPanel Orientation=&quot;Horizontal&quot;&gt;&#10;                        &lt;materialDesign:PackIcon Kind=&quot;PersonAdd&quot; Width=&quot;30&quot; Height=&quot;30&quot; VerticalAlignment=&quot;Center&quot;&#10;                                                 Margin=&quot;5&quot; /&gt;&#10;                        &lt;TextBlock Text=&quot;Add Student&quot; FontSize=&quot;26&quot; VerticalAlignment=&quot;Center&quot; Margin=&quot;20 0&quot; /&gt;&#10;                    &lt;/StackPanel&gt;&#10;                &lt;/ListViewItem&gt;&#10;                &lt;ListViewItem Height=&quot;60&quot;&gt;&#10;                    &lt;StackPanel Orientation=&quot;Horizontal&quot;&gt;&#10;                        &lt;materialDesign:PackIcon Kind=&quot;PersonAdd&quot; Width=&quot;30&quot; Height=&quot;30&quot; VerticalAlignment=&quot;Center&quot;&#10;                                                 Margin=&quot;5&quot; /&gt;&#10;                        &lt;TextBlock Text=&quot;Add Teacher&quot; FontSize=&quot;26&quot; VerticalAlignment=&quot;Center&quot; Margin=&quot;20 0&quot; /&gt;&#10;                    &lt;/StackPanel&gt;&#10;                &lt;/ListViewItem&gt;&#10;                &lt;ListViewItem Height=&quot;60&quot;&gt;&#10;                    &lt;StackPanel Orientation=&quot;Horizontal&quot;&gt;&#10;                        &lt;materialDesign:PackIcon Kind=&quot;FormatListBulleted&quot; Width=&quot;30&quot; Height=&quot;30&quot;&#10;                                                 VerticalAlignment=&quot;Center&quot; Margin=&quot;5&quot; /&gt;&#10;                        &lt;TextBlock Text=&quot;List Student&quot; FontSize=&quot;26&quot; VerticalAlignment=&quot;Center&quot; Margin=&quot;20 0&quot; /&gt;&#10;                    &lt;/StackPanel&gt;&#10;                &lt;/ListViewItem&gt;&#10;                &lt;ListViewItem Height=&quot;60&quot;&gt;&#10;                    &lt;StackPanel Orientation=&quot;Horizontal&quot;&gt;&#10;                        &lt;materialDesign:PackIcon Kind=&quot;FormatListBulleted&quot; Width=&quot;30&quot; Height=&quot;30&quot;&#10;                                                 VerticalAlignment=&quot;Center&quot; Margin=&quot;5&quot; /&gt;&#10;                        &lt;TextBlock Text=&quot;List Teacher&quot; FontSize=&quot;26&quot; VerticalAlignment=&quot;Center&quot; Margin=&quot;20 0&quot; /&gt;&#10;                    &lt;/StackPanel&gt;&#10;                &lt;/ListViewItem&gt;&#10;&#10;            &lt;/ListView&gt;&#10;        &lt;/Grid&gt;&#10;    &lt;/Grid&gt;.../&gt;" />
+            <marker date="1580413210827" expanded="true" signature="580:6101" ph="&lt;&lt;StackPanel VerticalAlignment=&quot;Top&quot;&gt;&#10;            &lt;Grid Background=&quot;##FF0069C0&quot; Height=&quot;10&quot; /&gt;&#10;            &lt;Grid Margin=&quot;5&quot;&gt;&#10;                &lt;StackPanel HorizontalAlignment=&quot;Center&quot; Orientation=&quot;Horizontal&quot;&gt;&#10;                    &lt;TextBlock Text=&quot;School Communication&quot; VerticalAlignment=&quot;Center&quot; FontSize=&quot;20&quot;&#10;                               FontFamily=&quot;Calibri Light&quot; Margin=&quot;20 0&quot; /&gt;&#10;                    &lt;Button Width=&quot;30&quot; Height=&quot;30&quot; Background=&quot;{x:Null}&quot; BorderBrush=&quot;{x:Null}&quot; Padding=&quot;0&quot;&#10;                            Foreground=&quot;Gray&quot;&gt;&#10;                        &lt;materialDesign:PackIcon Kind=&quot;FacebookBox&quot; /&gt;&#10;                    &lt;/Button&gt;&#10;                    &lt;Button Width=&quot;30&quot; Height=&quot;30&quot; Background=&quot;{x:Null}&quot; BorderBrush=&quot;{x:Null}&quot; Padding=&quot;0&quot;&#10;                            Foreground=&quot;Gray&quot;&gt;&#10;                        &lt;materialDesign:PackIcon Kind=&quot;TwitterBox&quot; /&gt;&#10;                    &lt;/Button&gt;&#10;                    &lt;Button Width=&quot;30&quot; Height=&quot;30&quot; Background=&quot;{x:Null}&quot; BorderBrush=&quot;{x:Null}&quot; Padding=&quot;0&quot;&#10;                            Foreground=&quot;Gray&quot;&gt;&#10;                        &lt;materialDesign:PackIcon Kind=&quot;GithubBox&quot; /&gt;&#10;                    &lt;/Button&gt;&#10;                &lt;/StackPanel&gt;&#10;                &lt;StackPanel Orientation=&quot;Horizontal&quot; HorizontalAlignment=&quot;Right&quot; Margin=&quot;10 0&quot;&gt;&#10;                    &lt;Button Width=&quot;30&quot; Height=&quot;30&quot; Background=&quot;{x:Null}&quot; BorderBrush=&quot;{x:Null}&quot; Padding=&quot;0&quot;&#10;                            Foreground=&quot;Gray&quot;&gt;&#10;                        &lt;materialDesign:PackIcon Kind=&quot;BellOutline&quot; /&gt;&#10;                    &lt;/Button&gt;&#10;                    &lt;Button Width=&quot;30&quot; Height=&quot;30&quot; Background=&quot;{x:Null}&quot; BorderBrush=&quot;{x:Null}&quot; Padding=&quot;0&quot;&#10;                            Foreground=&quot;Gray&quot; Margin=&quot;0 0 10 0&quot;&gt;&#10;                        &lt;materialDesign:PackIcon Kind=&quot;Settings&quot; /&gt;&#10;                    &lt;/Button&gt;&#10;                    &lt;Button x:Name=&quot;ButtonPower&quot; Click=&quot;ButtonPower_Click&quot; Width=&quot;30&quot; Height=&quot;30&quot; Background=&quot;{x:Null}&quot;&#10;                            BorderBrush=&quot;{x:Null}&quot; Padding=&quot;0&quot; Foreground=&quot;Gray&quot;&gt;&#10;                        &lt;materialDesign:PackIcon Kind=&quot;Power&quot; /&gt;&#10;                    &lt;/Button&gt;&#10;                &lt;/StackPanel&gt;&#10;            &lt;/Grid&gt;&#10;        &lt;/StackPanel&gt; &lt;Grid Margin=&quot;250 55 0 0&quot;&gt;&#10;            &lt;Grid x:Name=&quot;MainGrid&quot; HorizontalAlignment=&quot;Center&quot; VerticalAlignment=&quot;Center&quot; /&gt;&#10;&#10;        &lt;/Grid&gt; &lt;Grid Width=&quot;250&quot; HorizontalAlignment=&quot;Left&quot; Background=&quot;##FF222222&quot;&gt;&#10;            &lt;materialDesign:TransitioningContent x:Name=&quot;TransitioningContentSlide&quot;&#10;                                                 OpeningEffect=&quot;{materialDesign:TransitionEffect SlideInFromLeft, Duration=0:0:0.2}&quot;&gt;&#10;                &lt;Grid x:Name=&quot;GridCursor&quot; Margin=&quot;0 100 0 0&quot; Background=&quot;##FF0069C0&quot; Width=&quot;10&quot;&#10;                      HorizontalAlignment=&quot;Left&quot; Height=&quot;60&quot; VerticalAlignment=&quot;Top&quot; /&gt;&#10;            &lt;/materialDesign:TransitioningContent&gt;&#10;&#10;            &lt;ListView x:Name=&quot;ListViewMenu&quot; Margin=&quot;0 100&quot; Foreground=&quot;LightGray&quot; BorderThickness=&quot;0&quot;&#10;                      FontFamily=&quot;Champagne &amp;amp; Limousines&quot; Background=&quot;Transparent&quot;&#10;                      SelectionChanged=&quot;ListViewMenu_SelectionChanged&quot;&gt;&#10;                &lt;ListViewItem Height=&quot;60&quot;&gt;&#10;                    &lt;StackPanel Orientation=&quot;Horizontal&quot;&gt;&#10;                        &lt;materialDesign:PackIcon Kind=&quot;Home&quot; Width=&quot;30&quot; Height=&quot;30&quot; VerticalAlignment=&quot;Center&quot;&#10;                                                 Margin=&quot;5&quot; /&gt;&#10;                        &lt;TextBlock Text=&quot;Home&quot; FontSize=&quot;26&quot; VerticalAlignment=&quot;Center&quot; Margin=&quot;20 0&quot; /&gt;&#10;                    &lt;/StackPanel&gt;&#10;                &lt;/ListViewItem&gt;&#10;                &lt;ListViewItem Height=&quot;60&quot;&gt;&#10;                    &lt;StackPanel Orientation=&quot;Horizontal&quot;&gt;&#10;                        &lt;materialDesign:PackIcon Kind=&quot;PersonAdd&quot; Width=&quot;30&quot; Height=&quot;30&quot; VerticalAlignment=&quot;Center&quot;&#10;                                                 Margin=&quot;5&quot; /&gt;&#10;                        &lt;TextBlock Text=&quot;Add Student&quot; FontSize=&quot;26&quot; VerticalAlignment=&quot;Center&quot; Margin=&quot;20 0&quot; /&gt;&#10;                    &lt;/StackPanel&gt;&#10;                &lt;/ListViewItem&gt;&#10;                &lt;ListViewItem Height=&quot;60&quot;&gt;&#10;                    &lt;StackPanel Orientation=&quot;Horizontal&quot;&gt;&#10;                        &lt;materialDesign:PackIcon Kind=&quot;PersonAdd&quot; Width=&quot;30&quot; Height=&quot;30&quot; VerticalAlignment=&quot;Center&quot;&#10;                                                 Margin=&quot;5&quot; /&gt;&#10;                        &lt;TextBlock Text=&quot;Add Teacher&quot; FontSize=&quot;26&quot; VerticalAlignment=&quot;Center&quot; Margin=&quot;20 0&quot; /&gt;&#10;                    &lt;/StackPanel&gt;&#10;                &lt;/ListViewItem&gt;&#10;                &lt;ListViewItem Height=&quot;60&quot;&gt;&#10;                    &lt;StackPanel Orientation=&quot;Horizontal&quot;&gt;&#10;                        &lt;materialDesign:PackIcon Kind=&quot;FormatListBulleted&quot; Width=&quot;30&quot; Height=&quot;30&quot;&#10;                                                 VerticalAlignment=&quot;Center&quot; Margin=&quot;5&quot; /&gt;&#10;                        &lt;TextBlock Text=&quot;List Student&quot; FontSize=&quot;26&quot; VerticalAlignment=&quot;Center&quot; Margin=&quot;20 0&quot; /&gt;&#10;                    &lt;/StackPanel&gt;&#10;                &lt;/ListViewItem&gt;&#10;                &lt;ListViewItem Height=&quot;60&quot;&gt;&#10;                    &lt;StackPanel Orientation=&quot;Horizontal&quot;&gt;&#10;                        &lt;materialDesign:PackIcon Kind=&quot;FormatListBulleted&quot; Width=&quot;30&quot; Height=&quot;30&quot;&#10;                                                 VerticalAlignment=&quot;Center&quot; Margin=&quot;5&quot; /&gt;&#10;                        &lt;TextBlock Text=&quot;List Teacher&quot; FontSize=&quot;26&quot; VerticalAlignment=&quot;Center&quot; Margin=&quot;20 0&quot; /&gt;&#10;                    &lt;/StackPanel&gt;&#10;                &lt;/ListViewItem&gt;&#10;&#10;            &lt;/ListView&gt;&#10;        &lt;/Grid&gt;.../&gt;" />
+            <marker date="1580413210827" expanded="true" signature="645:2812" ph="&lt;&lt;Grid Background=&quot;##FF0069C0&quot; Height=&quot;10&quot; /&gt; &lt;Grid Margin=&quot;5&quot;&gt;&#10;                &lt;StackPanel HorizontalAlignment=&quot;Center&quot; Orientation=&quot;Horizontal&quot;&gt;&#10;                    &lt;TextBlock Text=&quot;School Communication&quot; VerticalAlignment=&quot;Center&quot; FontSize=&quot;20&quot;&#10;                               FontFamily=&quot;Calibri Light&quot; Margin=&quot;20 0&quot; /&gt;&#10;                    &lt;Button Width=&quot;30&quot; Height=&quot;30&quot; Background=&quot;{x:Null}&quot; BorderBrush=&quot;{x:Null}&quot; Padding=&quot;0&quot;&#10;                            Foreground=&quot;Gray&quot;&gt;&#10;                        &lt;materialDesign:PackIcon Kind=&quot;FacebookBox&quot; /&gt;&#10;                    &lt;/Button&gt;&#10;                    &lt;Button Width=&quot;30&quot; Height=&quot;30&quot; Background=&quot;{x:Null}&quot; BorderBrush=&quot;{x:Null}&quot; Padding=&quot;0&quot;&#10;                            Foreground=&quot;Gray&quot;&gt;&#10;                        &lt;materialDesign:PackIcon Kind=&quot;TwitterBox&quot; /&gt;&#10;                    &lt;/Button&gt;&#10;                    &lt;Button Width=&quot;30&quot; Height=&quot;30&quot; Background=&quot;{x:Null}&quot; BorderBrush=&quot;{x:Null}&quot; Padding=&quot;0&quot;&#10;                            Foreground=&quot;Gray&quot;&gt;&#10;                        &lt;materialDesign:PackIcon Kind=&quot;GithubBox&quot; /&gt;&#10;                    &lt;/Button&gt;&#10;                &lt;/StackPanel&gt;&#10;                &lt;StackPanel Orientation=&quot;Horizontal&quot; HorizontalAlignment=&quot;Right&quot; Margin=&quot;10 0&quot;&gt;&#10;                    &lt;Button Width=&quot;30&quot; Height=&quot;30&quot; Background=&quot;{x:Null}&quot; BorderBrush=&quot;{x:Null}&quot; Padding=&quot;0&quot;&#10;                            Foreground=&quot;Gray&quot;&gt;&#10;                        &lt;materialDesign:PackIcon Kind=&quot;BellOutline&quot; /&gt;&#10;                    &lt;/Button&gt;&#10;                    &lt;Button Width=&quot;30&quot; Height=&quot;30&quot; Background=&quot;{x:Null}&quot; BorderBrush=&quot;{x:Null}&quot; Padding=&quot;0&quot;&#10;                            Foreground=&quot;Gray&quot; Margin=&quot;0 0 10 0&quot;&gt;&#10;                        &lt;materialDesign:PackIcon Kind=&quot;Settings&quot; /&gt;&#10;                    &lt;/Button&gt;&#10;                    &lt;Button x:Name=&quot;ButtonPower&quot; Click=&quot;ButtonPower_Click&quot; Width=&quot;30&quot; Height=&quot;30&quot; Background=&quot;{x:Null}&quot;&#10;                            BorderBrush=&quot;{x:Null}&quot; Padding=&quot;0&quot; Foreground=&quot;Gray&quot;&gt;&#10;                        &lt;materialDesign:PackIcon Kind=&quot;Power&quot; /&gt;&#10;                    &lt;/Button&gt;&#10;                &lt;/StackPanel&gt;&#10;            &lt;/Grid&gt;.../&gt;" />
+            <marker date="1580413210827" expanded="true" signature="750:2790" ph="&lt;&lt;StackPanel HorizontalAlignment=&quot;Center&quot; Orientation=&quot;Horizontal&quot;&gt;&#10;                    &lt;TextBlock Text=&quot;School Communication&quot; VerticalAlignment=&quot;Center&quot; FontSize=&quot;20&quot;&#10;                               FontFamily=&quot;Calibri Light&quot; Margin=&quot;20 0&quot; /&gt;&#10;                    &lt;Button Width=&quot;30&quot; Height=&quot;30&quot; Background=&quot;{x:Null}&quot; BorderBrush=&quot;{x:Null}&quot; Padding=&quot;0&quot;&#10;                            Foreground=&quot;Gray&quot;&gt;&#10;                        &lt;materialDesign:PackIcon Kind=&quot;FacebookBox&quot; /&gt;&#10;                    &lt;/Button&gt;&#10;                    &lt;Button Width=&quot;30&quot; Height=&quot;30&quot; Background=&quot;{x:Null}&quot; BorderBrush=&quot;{x:Null}&quot; Padding=&quot;0&quot;&#10;                            Foreground=&quot;Gray&quot;&gt;&#10;                        &lt;materialDesign:PackIcon Kind=&quot;TwitterBox&quot; /&gt;&#10;                    &lt;/Button&gt;&#10;                    &lt;Button Width=&quot;30&quot; Height=&quot;30&quot; Background=&quot;{x:Null}&quot; BorderBrush=&quot;{x:Null}&quot; Padding=&quot;0&quot;&#10;                            Foreground=&quot;Gray&quot;&gt;&#10;                        &lt;materialDesign:PackIcon Kind=&quot;GithubBox&quot; /&gt;&#10;                    &lt;/Button&gt;&#10;                &lt;/StackPanel&gt; &lt;StackPanel Orientation=&quot;Horizontal&quot; HorizontalAlignment=&quot;Right&quot; Margin=&quot;10 0&quot;&gt;&#10;                    &lt;Button Width=&quot;30&quot; Height=&quot;30&quot; Background=&quot;{x:Null}&quot; BorderBrush=&quot;{x:Null}&quot; Padding=&quot;0&quot;&#10;                            Foreground=&quot;Gray&quot;&gt;&#10;                        &lt;materialDesign:PackIcon Kind=&quot;BellOutline&quot; /&gt;&#10;                    &lt;/Button&gt;&#10;                    &lt;Button Width=&quot;30&quot; Height=&quot;30&quot; Background=&quot;{x:Null}&quot; BorderBrush=&quot;{x:Null}&quot; Padding=&quot;0&quot;&#10;                            Foreground=&quot;Gray&quot; Margin=&quot;0 0 10 0&quot;&gt;&#10;                        &lt;materialDesign:PackIcon Kind=&quot;Settings&quot; /&gt;&#10;                    &lt;/Button&gt;&#10;                    &lt;Button x:Name=&quot;ButtonPower&quot; Click=&quot;ButtonPower_Click&quot; Width=&quot;30&quot; Height=&quot;30&quot; Background=&quot;{x:Null}&quot;&#10;                            BorderBrush=&quot;{x:Null}&quot; Padding=&quot;0&quot; Foreground=&quot;Gray&quot;&gt;&#10;                        &lt;materialDesign:PackIcon Kind=&quot;Power&quot; /&gt;&#10;                    &lt;/Button&gt;&#10;                &lt;/StackPanel&gt;.../&gt;" />
+            <marker date="1580413210827" expanded="true" signature="784:1820" ph="&lt;&lt;TextBlock Text=&quot;School Communication&quot; VerticalAlignment=&quot;Center&quot; FontSize=&quot;20&quot;&#10;                               FontFamily=&quot;Calibri Light&quot; Margin=&quot;20 0&quot; /&gt; &lt;Button Width=&quot;30&quot; Height=&quot;30&quot; Background=&quot;{x:Null}&quot; BorderBrush=&quot;{x:Null}&quot; Padding=&quot;0&quot;&#10;                            Foreground=&quot;Gray&quot;&gt;&#10;                        &lt;materialDesign:PackIcon Kind=&quot;FacebookBox&quot; /&gt;&#10;                    &lt;/Button&gt; &lt;Button Width=&quot;30&quot; Height=&quot;30&quot; Background=&quot;{x:Null}&quot; BorderBrush=&quot;{x:Null}&quot; Padding=&quot;0&quot;&#10;                            Foreground=&quot;Gray&quot;&gt;&#10;                        &lt;materialDesign:PackIcon Kind=&quot;TwitterBox&quot; /&gt;&#10;                    &lt;/Button&gt; &lt;Button Width=&quot;30&quot; Height=&quot;30&quot; Background=&quot;{x:Null}&quot; BorderBrush=&quot;{x:Null}&quot; Padding=&quot;0&quot;&#10;                            Foreground=&quot;Gray&quot;&gt;&#10;                        &lt;materialDesign:PackIcon Kind=&quot;GithubBox&quot; /&gt;&#10;                    &lt;/Button&gt;.../&gt;" />
+            <marker date="1580413210827" expanded="true" signature="871:1025" ph="&lt;.../&gt;" />
+            <marker date="1580413210827" expanded="true" signature="1046:1281" ph="&lt;&lt;materialDesign:PackIcon Kind=&quot;FacebookBox&quot; /&gt;.../&gt;" />
+            <marker date="1580413210827" expanded="true" signature="1302:1536" ph="&lt;&lt;materialDesign:PackIcon Kind=&quot;TwitterBox&quot; /&gt;.../&gt;" />
+            <marker date="1580413210827" expanded="true" signature="1557:1790" ph="&lt;&lt;materialDesign:PackIcon Kind=&quot;GithubBox&quot; /&gt;.../&gt;" />
+            <marker date="1580413210827" expanded="true" signature="1837:2770" ph="&lt;&lt;Button Width=&quot;30&quot; Height=&quot;30&quot; Background=&quot;{x:Null}&quot; BorderBrush=&quot;{x:Null}&quot; Padding=&quot;0&quot;&#10;                            Foreground=&quot;Gray&quot;&gt;&#10;                        &lt;materialDesign:PackIcon Kind=&quot;BellOutline&quot; /&gt;&#10;                    &lt;/Button&gt; &lt;Button Width=&quot;30&quot; Height=&quot;30&quot; Background=&quot;{x:Null}&quot; BorderBrush=&quot;{x:Null}&quot; Padding=&quot;0&quot;&#10;                            Foreground=&quot;Gray&quot; Margin=&quot;0 0 10 0&quot;&gt;&#10;                        &lt;materialDesign:PackIcon Kind=&quot;Settings&quot; /&gt;&#10;                    &lt;/Button&gt; &lt;Button x:Name=&quot;ButtonPower&quot; Click=&quot;ButtonPower_Click&quot; Width=&quot;30&quot; Height=&quot;30&quot; Background=&quot;{x:Null}&quot;&#10;                            BorderBrush=&quot;{x:Null}&quot; Padding=&quot;0&quot; Foreground=&quot;Gray&quot;&gt;&#10;                        &lt;materialDesign:PackIcon Kind=&quot;Power&quot; /&gt;&#10;                    &lt;/Button&gt;.../&gt;" />
+            <marker date="1580413210827" expanded="true" signature="1937:2172" ph="&lt;&lt;materialDesign:PackIcon Kind=&quot;BellOutline&quot; /&gt;.../&gt;" />
+            <marker date="1580413210827" expanded="true" signature="2193:2443" ph="&lt;&lt;materialDesign:PackIcon Kind=&quot;Settings&quot; /&gt;.../&gt;" />
+            <marker date="1580413210827" expanded="true" signature="2464:2740" ph="&lt;&lt;materialDesign:PackIcon Kind=&quot;Power&quot; /&gt;.../&gt;" />
+            <marker date="1580413210827" expanded="true" signature="2821:2959" ph="&lt;&lt;Grid x:Name=&quot;MainGrid&quot; HorizontalAlignment=&quot;Center&quot; VerticalAlignment=&quot;Center&quot; /&gt;.../&gt;" />
+            <marker date="1580413210827" expanded="true" signature="2968:6089" ph="&lt;&lt;materialDesign:TransitioningContent x:Name=&quot;TransitioningContentSlide&quot;&#10;                                                 OpeningEffect=&quot;{materialDesign:TransitionEffect SlideInFromLeft, Duration=0:0:0.2}&quot;&gt;&#10;                &lt;Grid x:Name=&quot;GridCursor&quot; Margin=&quot;0 100 0 0&quot; Background=&quot;##FF0069C0&quot; Width=&quot;10&quot;&#10;                      HorizontalAlignment=&quot;Left&quot; Height=&quot;60&quot; VerticalAlignment=&quot;Top&quot; /&gt;&#10;            &lt;/materialDesign:TransitioningContent&gt; &lt;ListView x:Name=&quot;ListViewMenu&quot; Margin=&quot;0 100&quot; Foreground=&quot;LightGray&quot; BorderThickness=&quot;0&quot;&#10;                      FontFamily=&quot;Champagne &amp;amp; Limousines&quot; Background=&quot;Transparent&quot;&#10;                      SelectionChanged=&quot;ListViewMenu_SelectionChanged&quot;&gt;&#10;                &lt;ListViewItem Height=&quot;60&quot;&gt;&#10;                    &lt;StackPanel Orientation=&quot;Horizontal&quot;&gt;&#10;                        &lt;materialDesign:PackIcon Kind=&quot;Home&quot; Width=&quot;30&quot; Height=&quot;30&quot; VerticalAlignment=&quot;Center&quot;&#10;                                                 Margin=&quot;5&quot; /&gt;&#10;                        &lt;TextBlock Text=&quot;Home&quot; FontSize=&quot;26&quot; VerticalAlignment=&quot;Center&quot; Margin=&quot;20 0&quot; /&gt;&#10;                    &lt;/StackPanel&gt;&#10;                &lt;/ListViewItem&gt;&#10;                &lt;ListViewItem Height=&quot;60&quot;&gt;&#10;                    &lt;StackPanel Orientation=&quot;Horizontal&quot;&gt;&#10;                        &lt;materialDesign:PackIcon Kind=&quot;PersonAdd&quot; Width=&quot;30&quot; Height=&quot;30&quot; VerticalAlignment=&quot;Center&quot;&#10;                                                 Margin=&quot;5&quot; /&gt;&#10;                        &lt;TextBlock Text=&quot;Add Student&quot; FontSize=&quot;26&quot; VerticalAlignment=&quot;Center&quot; Margin=&quot;20 0&quot; /&gt;&#10;                    &lt;/StackPanel&gt;&#10;                &lt;/ListViewItem&gt;&#10;                &lt;ListViewItem Height=&quot;60&quot;&gt;&#10;                    &lt;StackPanel Orientation=&quot;Horizontal&quot;&gt;&#10;                        &lt;materialDesign:PackIcon Kind=&quot;PersonAdd&quot; Width=&quot;30&quot; Height=&quot;30&quot; VerticalAlignment=&quot;Center&quot;&#10;                                                 Margin=&quot;5&quot; /&gt;&#10;                        &lt;TextBlock Text=&quot;Add Teacher&quot; FontSize=&quot;26&quot; VerticalAlignment=&quot;Center&quot; Margin=&quot;20 0&quot; /&gt;&#10;                    &lt;/StackPanel&gt;&#10;                &lt;/ListViewItem&gt;&#10;                &lt;ListViewItem Height=&quot;60&quot;&gt;&#10;                    &lt;StackPanel Orientation=&quot;Horizontal&quot;&gt;&#10;                        &lt;materialDesign:PackIcon Kind=&quot;FormatListBulleted&quot; Width=&quot;30&quot; Height=&quot;30&quot;&#10;                                                 VerticalAlignment=&quot;Center&quot; Margin=&quot;5&quot; /&gt;&#10;                        &lt;TextBlock Text=&quot;List Student&quot; FontSize=&quot;26&quot; VerticalAlignment=&quot;Center&quot; Margin=&quot;20 0&quot; /&gt;&#10;                    &lt;/StackPanel&gt;&#10;                &lt;/ListViewItem&gt;&#10;                &lt;ListViewItem Height=&quot;60&quot;&gt;&#10;                    &lt;StackPanel Orientation=&quot;Horizontal&quot;&gt;&#10;                        &lt;materialDesign:PackIcon Kind=&quot;FormatListBulleted&quot; Width=&quot;30&quot; Height=&quot;30&quot;&#10;                                                 VerticalAlignment=&quot;Center&quot; Margin=&quot;5&quot; /&gt;&#10;                        &lt;TextBlock Text=&quot;List Teacher&quot; FontSize=&quot;26&quot; VerticalAlignment=&quot;Center&quot; Margin=&quot;20 0&quot; /&gt;&#10;                    &lt;/StackPanel&gt;&#10;                &lt;/ListViewItem&gt;&#10;&#10;            &lt;/ListView&gt;.../&gt;" />
+            <marker date="1580413210827" expanded="true" signature="3049:3488" ph="&lt;&lt;Grid x:Name=&quot;GridCursor&quot; Margin=&quot;0 100 0 0&quot; Background=&quot;##FF0069C0&quot; Width=&quot;10&quot;&#10;                      HorizontalAlignment=&quot;Left&quot; Height=&quot;60&quot; VerticalAlignment=&quot;Top&quot; /&gt;.../&gt;" />
+            <marker date="1580413210827" expanded="true" signature="3271:3437" ph="&lt;.../&gt;" />
+            <marker date="1580413210827" expanded="true" signature="3502:6073" ph="&lt;&lt;ListViewItem Height=&quot;60&quot;&gt;&#10;                    &lt;StackPanel Orientation=&quot;Horizontal&quot;&gt;&#10;                        &lt;materialDesign:PackIcon Kind=&quot;Home&quot; Width=&quot;30&quot; Height=&quot;30&quot; VerticalAlignment=&quot;Center&quot;&#10;                                                 Margin=&quot;5&quot; /&gt;&#10;                        &lt;TextBlock Text=&quot;Home&quot; FontSize=&quot;26&quot; VerticalAlignment=&quot;Center&quot; Margin=&quot;20 0&quot; /&gt;&#10;                    &lt;/StackPanel&gt;&#10;                &lt;/ListViewItem&gt; &lt;ListViewItem Height=&quot;60&quot;&gt;&#10;                    &lt;StackPanel Orientation=&quot;Horizontal&quot;&gt;&#10;                        &lt;materialDesign:PackIcon Kind=&quot;PersonAdd&quot; Width=&quot;30&quot; Height=&quot;30&quot; VerticalAlignment=&quot;Center&quot;&#10;                                                 Margin=&quot;5&quot; /&gt;&#10;                        &lt;TextBlock Text=&quot;Add Student&quot; FontSize=&quot;26&quot; VerticalAlignment=&quot;Center&quot; Margin=&quot;20 0&quot; /&gt;&#10;                    &lt;/StackPanel&gt;&#10;                &lt;/ListViewItem&gt; &lt;ListViewItem Height=&quot;60&quot;&gt;&#10;                    &lt;StackPanel Orientation=&quot;Horizontal&quot;&gt;&#10;                        &lt;materialDesign:PackIcon Kind=&quot;PersonAdd&quot; Width=&quot;30&quot; Height=&quot;30&quot; VerticalAlignment=&quot;Center&quot;&#10;                                                 Margin=&quot;5&quot; /&gt;&#10;                        &lt;TextBlock Text=&quot;Add Teacher&quot; FontSize=&quot;26&quot; VerticalAlignment=&quot;Center&quot; Margin=&quot;20 0&quot; /&gt;&#10;                    &lt;/StackPanel&gt;&#10;                &lt;/ListViewItem&gt; &lt;ListViewItem Height=&quot;60&quot;&gt;&#10;                    &lt;StackPanel Orientation=&quot;Horizontal&quot;&gt;&#10;                        &lt;materialDesign:PackIcon Kind=&quot;FormatListBulleted&quot; Width=&quot;30&quot; Height=&quot;30&quot;&#10;                                                 VerticalAlignment=&quot;Center&quot; Margin=&quot;5&quot; /&gt;&#10;                        &lt;TextBlock Text=&quot;List Student&quot; FontSize=&quot;26&quot; VerticalAlignment=&quot;Center&quot; Margin=&quot;20 0&quot; /&gt;&#10;                    &lt;/StackPanel&gt;&#10;                &lt;/ListViewItem&gt; &lt;ListViewItem Height=&quot;60&quot;&gt;&#10;                    &lt;StackPanel Orientation=&quot;Horizontal&quot;&gt;&#10;                        &lt;materialDesign:PackIcon Kind=&quot;FormatListBulleted&quot; Width=&quot;30&quot; Height=&quot;30&quot;&#10;                                                 VerticalAlignment=&quot;Center&quot; Margin=&quot;5&quot; /&gt;&#10;                        &lt;TextBlock Text=&quot;List Teacher&quot; FontSize=&quot;26&quot; VerticalAlignment=&quot;Center&quot; Margin=&quot;20 0&quot; /&gt;&#10;                    &lt;/StackPanel&gt;&#10;                &lt;/ListViewItem&gt;.../&gt;" />
+            <marker date="1580413210827" expanded="true" signature="3767:4196" ph="&lt;&lt;StackPanel Orientation=&quot;Horizontal&quot;&gt;&#10;                        &lt;materialDesign:PackIcon Kind=&quot;Home&quot; Width=&quot;30&quot; Height=&quot;30&quot; VerticalAlignment=&quot;Center&quot;&#10;                                                 Margin=&quot;5&quot; /&gt;&#10;                        &lt;TextBlock Text=&quot;Home&quot; FontSize=&quot;26&quot; VerticalAlignment=&quot;Center&quot; Margin=&quot;20 0&quot; /&gt;&#10;                    &lt;/StackPanel&gt;.../&gt;" />
+            <marker date="1580413210827" expanded="true" signature="3814:4164" ph="&lt;&lt;materialDesign:PackIcon Kind=&quot;Home&quot; Width=&quot;30&quot; Height=&quot;30&quot; VerticalAlignment=&quot;Center&quot;&#10;                                                 Margin=&quot;5&quot; /&gt; &lt;TextBlock Text=&quot;Home&quot; FontSize=&quot;26&quot; VerticalAlignment=&quot;Center&quot; Margin=&quot;20 0&quot; /&gt;.../&gt;" />
+            <marker date="1580413210827" expanded="true" signature="3876:4025" ph="&lt;.../&gt;" />
+            <marker date="1580413210827" expanded="true" signature="4213:4654" ph="&lt;&lt;StackPanel Orientation=&quot;Horizontal&quot;&gt;&#10;                        &lt;materialDesign:PackIcon Kind=&quot;PersonAdd&quot; Width=&quot;30&quot; Height=&quot;30&quot; VerticalAlignment=&quot;Center&quot;&#10;                                                 Margin=&quot;5&quot; /&gt;&#10;                        &lt;TextBlock Text=&quot;Add Student&quot; FontSize=&quot;26&quot; VerticalAlignment=&quot;Center&quot; Margin=&quot;20 0&quot; /&gt;&#10;                    &lt;/StackPanel&gt;.../&gt;" />
+            <marker date="1580413210827" expanded="true" signature="4260:4622" ph="&lt;&lt;materialDesign:PackIcon Kind=&quot;PersonAdd&quot; Width=&quot;30&quot; Height=&quot;30&quot; VerticalAlignment=&quot;Center&quot;&#10;                                                 Margin=&quot;5&quot; /&gt; &lt;TextBlock Text=&quot;Add Student&quot; FontSize=&quot;26&quot; VerticalAlignment=&quot;Center&quot; Margin=&quot;20 0&quot; /&gt;.../&gt;" />
+            <marker date="1580413210827" expanded="true" signature="4322:4476" ph="&lt;.../&gt;" />
+            <marker date="1580413210827" expanded="true" signature="4671:5112" ph="&lt;&lt;StackPanel Orientation=&quot;Horizontal&quot;&gt;&#10;                        &lt;materialDesign:PackIcon Kind=&quot;PersonAdd&quot; Width=&quot;30&quot; Height=&quot;30&quot; VerticalAlignment=&quot;Center&quot;&#10;                                                 Margin=&quot;5&quot; /&gt;&#10;                        &lt;TextBlock Text=&quot;Add Teacher&quot; FontSize=&quot;26&quot; VerticalAlignment=&quot;Center&quot; Margin=&quot;20 0&quot; /&gt;&#10;                    &lt;/StackPanel&gt;.../&gt;" />
+            <marker date="1580413210827" expanded="true" signature="4718:5080" ph="&lt;&lt;materialDesign:PackIcon Kind=&quot;PersonAdd&quot; Width=&quot;30&quot; Height=&quot;30&quot; VerticalAlignment=&quot;Center&quot;&#10;                                                 Margin=&quot;5&quot; /&gt; &lt;TextBlock Text=&quot;Add Teacher&quot; FontSize=&quot;26&quot; VerticalAlignment=&quot;Center&quot; Margin=&quot;20 0&quot; /&gt;.../&gt;" />
+            <marker date="1580413210827" expanded="true" signature="4780:4934" ph="&lt;.../&gt;" />
+            <marker date="1580413210827" expanded="true" signature="5129:5580" ph="&lt;&lt;StackPanel Orientation=&quot;Horizontal&quot;&gt;&#10;                        &lt;materialDesign:PackIcon Kind=&quot;FormatListBulleted&quot; Width=&quot;30&quot; Height=&quot;30&quot;&#10;                                                 VerticalAlignment=&quot;Center&quot; Margin=&quot;5&quot; /&gt;&#10;                        &lt;TextBlock Text=&quot;List Student&quot; FontSize=&quot;26&quot; VerticalAlignment=&quot;Center&quot; Margin=&quot;20 0&quot; /&gt;&#10;                    &lt;/StackPanel&gt;.../&gt;" />
+            <marker date="1580413210827" expanded="true" signature="5176:5548" ph="&lt;&lt;materialDesign:PackIcon Kind=&quot;FormatListBulleted&quot; Width=&quot;30&quot; Height=&quot;30&quot;&#10;                                                 VerticalAlignment=&quot;Center&quot; Margin=&quot;5&quot; /&gt; &lt;TextBlock Text=&quot;List Student&quot; FontSize=&quot;26&quot; VerticalAlignment=&quot;Center&quot; Margin=&quot;20 0&quot; /&gt;.../&gt;" />
+            <marker date="1580413210827" expanded="true" signature="5238:5401" ph="&lt;.../&gt;" />
+            <marker date="1580413210827" expanded="true" signature="5597:6048" ph="&lt;&lt;StackPanel Orientation=&quot;Horizontal&quot;&gt;&#10;                        &lt;materialDesign:PackIcon Kind=&quot;FormatListBulleted&quot; Width=&quot;30&quot; Height=&quot;30&quot;&#10;                                                 VerticalAlignment=&quot;Center&quot; Margin=&quot;5&quot; /&gt;&#10;                        &lt;TextBlock Text=&quot;List Teacher&quot; FontSize=&quot;26&quot; VerticalAlignment=&quot;Center&quot; Margin=&quot;20 0&quot; /&gt;&#10;                    &lt;/StackPanel&gt;.../&gt;" />
+            <marker date="1580413210827" expanded="true" signature="5644:6016" ph="&lt;&lt;materialDesign:PackIcon Kind=&quot;FormatListBulleted&quot; Width=&quot;30&quot; Height=&quot;30&quot;&#10;                                                 VerticalAlignment=&quot;Center&quot; Margin=&quot;5&quot; /&gt; &lt;TextBlock Text=&quot;List Teacher&quot; FontSize=&quot;26&quot; VerticalAlignment=&quot;Center&quot; Margin=&quot;20 0&quot; /&gt;.../&gt;" />
+            <marker date="1580413210827" expanded="true" signature="5706:5869" ph="&lt;.../&gt;" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/sms/MainWindow.xaml">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="153">
+          <caret line="9" column="9" lean-forward="true" selection-start-line="9" selection-start-column="9" selection-end-line="9" selection-end-column="9" />
+          <folding>
+            <marker date="1580413173290" expanded="true" signature="0:458" ph="&lt;&lt;Grid /&gt;.../&gt;" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/sms/Services/TeacherServices/Usecase/Teacher_Usecase.cs">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="51">
+          <caret line="3" column="1" selection-start-line="3" selection-start-column="1" selection-end-line="3" selection-end-column="1" />
+          <folding>
+            <marker date="1580411430950" expanded="true" signature="65:456" ph="{...}" />
+            <marker date="1580411430950" expanded="true" signature="117:454" ph="{...}" />
+            <marker date="1580411430950" expanded="true" signature="242:300" ph="{...}" />
+            <marker date="1580411430950" expanded="true" signature="369:448" ph="{...}" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/sms/StudentPage.xaml">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="153">
+          <caret line="9" column="8" selection-start-line="9" selection-start-column="8" selection-end-line="9" selection-end-column="8" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/sms/Services/AdminServices/Repository/Firebase_Admin.cs">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="272">
+          <caret line="20" column="9" lean-forward="true" selection-start-line="20" selection-start-column="9" selection-end-line="20" selection-end-column="9" />
+          <folding>
+            <marker date="1580411430905" expanded="true" signature="6:217" ph="..." />
+            <marker date="1580411430905" expanded="true" signature="266:2373" ph="{...}" />
+            <marker date="1580411430905" expanded="true" signature="318:2371" ph="{...}" />
+            <marker date="1580411430905" expanded="true" signature="480:550" ph="{...}" />
+            <marker date="1580411430905" expanded="true" signature="608:1178" ph="{...}" />
+            <marker date="1580411430905" expanded="true" signature="668:1070" ph="{...}" />
+            <marker date="1580411430905" expanded="true" signature="1087:1168" ph="{...}" />
+            <marker date="1580411430905" expanded="true" signature="1236:1893" ph="{...}" />
+            <marker date="1580411430905" expanded="true" signature="1296:1785" ph="{...}" />
+            <marker date="1580411430905" expanded="true" signature="1520:1659" ph="{...}" />
+            <marker date="1580411430905" expanded="true" signature="1680:1771" ph="{...}" />
+            <marker date="1580411430905" expanded="true" signature="1802:1883" ph="{...}" />
+            <marker date="1580411430905" expanded="true" signature="1938:2007" ph="{...}" />
+            <marker date="1580411430905" expanded="true" signature="2052:2121" ph="{...}" />
+            <marker date="1580411430905" expanded="true" signature="2174:2243" ph="{...}" />
+            <marker date="1580411430905" expanded="true" signature="2296:2365" ph="{...}" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/sms/Models/Teacher.cs">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="153">
+          <caret line="9" column="44" lean-forward="true" selection-start-line="7" selection-start-column="7" selection-end-line="9" selection-end-column="44" />
+          <folding>
+            <marker date="1580405352056" expanded="true" signature="20:417" ph="{...}" />
+            <marker date="1580405352056" expanded="true" signature="47:415" ph="{...}" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/sms/Models/User.cs">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="119">
+          <caret line="7" column="27" selection-start-line="7" selection-start-column="27" selection-end-line="7" selection-end-column="27" />
+          <folding>
+            <marker date="1580413677866" expanded="true" signature="20:231" ph="{...}" />
+            <marker date="1580413677866" expanded="true" signature="44:229" ph="{...}" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/sms/App.xaml">
+      <provider selected="true" editor-type-id="text-editor">
+        <state>
+          <folding>
+            <marker date="1580411430852" expanded="true" signature="0:338" ph="&lt;&lt;Application.Resources&gt;&#10;&#10;    &lt;/Application.Resources&gt;.../&gt;" />
+            <marker date="1580411430852" expanded="true" signature="270:323" ph="&lt;.../&gt;" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/sms/Authentication/AuthenticateUser.cs">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="612">
+          <caret line="36" column="20" lean-forward="true" selection-start-line="36" selection-start-column="20" selection-end-line="36" selection-end-column="20" />
+          <folding>
+            <marker date="1580414081129" expanded="true" signature="6:169" ph="..." />
+            <marker date="1580414081129" expanded="true" signature="199:1319" ph="{...}" />
+            <marker date="1580414081129" expanded="true" signature="235:1317" ph="{...}" />
+            <marker date="1580414081129" expanded="true" signature="400:470" ph="{...}" />
+            <marker date="1580414081129" expanded="true" signature="499:519" ph="{...}" />
+            <marker date="1580414081129" expanded="true" signature="569:1311" ph="{...}" />
+            <marker date="1580414081129" expanded="true" signature="629:1214" ph="{...}" />
+            <marker date="1580414081129" expanded="true" signature="840:1088" ph="{...}" />
+            <marker date="1580414081129" expanded="true" signature="1109:1200" ph="{...}" />
+            <marker date="1580414081129" expanded="true" signature="1231:1301" ph="{...}" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/sms/AdminPage.xaml.cs">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="255">
+          <caret line="18" column="29" selection-start-line="18" selection-start-column="29" selection-end-line="18" selection-end-column="29" />
+          <folding>
+            <marker date="1580414308687" expanded="true" signature="6:201" ph="..." />
+            <marker date="1580414308687" expanded="true" signature="216:1211" ph="{...}" />
+            <marker date="1580414308687" expanded="true" signature="253:1209" ph="{...}" />
+            <marker date="1580414308687" expanded="true" signature="332:543" ph="{...}" />
+            <marker date="1580414308687" expanded="true" signature="617:681" ph="{...}" />
+            <marker date="1580414308687" expanded="true" signature="757:801" ph="{...}" />
+            <marker date="1580414308687" expanded="true" signature="897:1004" ph="{...}" />
+            <marker date="1580414308687" expanded="true" signature="1052:1203" ph="{...}" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/sms/TeacherPage.xaml">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="153">
+          <caret line="9" column="8" selection-start-line="9" selection-start-column="8" selection-end-line="9" selection-end-column="8" />
+          <folding>
+            <marker date="1580414308676" expanded="true" signature="0:460" ph="&lt;&lt;Grid&gt;&#10;        &#10;    &lt;/Grid&gt;.../&gt;" />
+            <marker date="1580414308676" expanded="true" signature="442:450" ph="&lt;.../&gt;" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/sms/StudentPage.xaml.cs">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="255">
+          <caret line="15" column="23" selection-start-line="15" selection-start-column="23" selection-end-line="15" selection-end-column="23" />
+          <folding>
+            <marker date="1580414308698" expanded="true" signature="6:148" ph="..." />
+            <marker date="1580414308698" expanded="true" signature="163:527" ph="{...}" />
+            <marker date="1580414308698" expanded="true" signature="211:525" ph="{...}" />
+            <marker date="1580414308698" expanded="true" signature="296:519" ph="{...}" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/sms/TeacherPage.xaml.cs">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="306">
+          <caret line="18" column="5" lean-forward="true" selection-start-line="18" selection-start-column="5" selection-end-line="18" selection-end-column="5" />
+          <folding>
+            <marker date="1580414308710" expanded="true" signature="6:148" ph="..." />
+            <marker date="1580414308710" expanded="true" signature="163:527" ph="{...}" />
+            <marker date="1580414308710" expanded="true" signature="211:525" ph="{...}" />
+            <marker date="1580414308710" expanded="true" signature="296:519" ph="{...}" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/sms.sln">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/sms/MainWindow.xaml.cs">
+      <provider selected="true" editor-type-id="text-editor">
+        <state>
+          <folding>
+            <marker date="1580414326296" expanded="true" signature="13:235" ph="{...}" />
+            <marker date="1580414326296" expanded="true" signature="20:102" ph="///     Interaction logic for MainWindow.xaml ... " />
+            <marker date="1580414326296" expanded="true" signature="138:233" ph="{...}" />
+            <marker date="1580414326296" expanded="true" signature="172:227" ph="{...}" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/sms/sms.csproj">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+  </component>
+</project>

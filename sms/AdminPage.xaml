@@ -1,0 +1,99 @@
+<Window x:Class="sms.AdminPage"
+        xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+        xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+        xmlns:d="http://schemas.microsoft.com/expression/blend/2008"
+        xmlns:mc="http://schemas.openxmlformats.org/markup-compatibility/2006"
+        xmlns:local="clr-namespace:sms"
+        xmlns:materialDesign="http://materialdesigninxaml.net/winfx/xaml/themes"
+        mc:Ignorable="d" Height="600" Width="1024" WindowStartupLocation="CenterScreen" ResizeMode="NoResize"
+        WindowStyle="None">
+    <Grid Background="#FFEEEEEE" MouseDown="Grid_MouseDown">
+        <StackPanel VerticalAlignment="Top">
+            <Grid Background="#FF0069C0" Height="10" />
+            <Grid Margin="5">
+                <StackPanel HorizontalAlignment="Center" Orientation="Horizontal">
+                    <TextBlock Text="School Communication" VerticalAlignment="Center" FontSize="20"
+                               FontFamily="Calibri Light" Margin="20 0" />
+                    <Button Width="30" Height="30" Background="{x:Null}" BorderBrush="{x:Null}" Padding="0"
+                            Foreground="Gray">
+                        <materialDesign:PackIcon Kind="FacebookBox" />
+                    </Button>
+                    <Button Width="30" Height="30" Background="{x:Null}" BorderBrush="{x:Null}" Padding="0"
+                            Foreground="Gray">
+                        <materialDesign:PackIcon Kind="TwitterBox" />
+                    </Button>
+                    <Button Width="30" Height="30" Background="{x:Null}" BorderBrush="{x:Null}" Padding="0"
+                            Foreground="Gray">
+                        <materialDesign:PackIcon Kind="GithubBox" />
+                    </Button>
+                </StackPanel>
+                <StackPanel Orientation="Horizontal" HorizontalAlignment="Right" Margin="10 0">
+                    <Button Width="30" Height="30" Background="{x:Null}" BorderBrush="{x:Null}" Padding="0"
+                            Foreground="Gray">
+                        <materialDesign:PackIcon Kind="BellOutline" />
+                    </Button>
+                    <Button Width="30" Height="30" Background="{x:Null}" BorderBrush="{x:Null}" Padding="0"
+                            Foreground="Gray" Margin="0 0 10 0">
+                        <materialDesign:PackIcon Kind="Settings" />
+                    </Button>
+                    <Button x:Name="ButtonPower" Click="ButtonPower_Click" Width="30" Height="30" Background="{x:Null}"
+                            BorderBrush="{x:Null}" Padding="0" Foreground="Gray">
+                        <materialDesign:PackIcon Kind="Power" />
+                    </Button>
+                </StackPanel>
+            </Grid>
+        </StackPanel>
+        <Grid Margin="250 55 0 0">
+            <Grid x:Name="MainGrid" HorizontalAlignment="Center" VerticalAlignment="Center" />
+
+        </Grid>
+        <Grid Width="250" HorizontalAlignment="Left" Background="#FF222222">
+            <materialDesign:TransitioningContent x:Name="TransitioningContentSlide"
+                                                 OpeningEffect="{materialDesign:TransitionEffect SlideInFromLeft, Duration=0:0:0.2}">
+                <Grid x:Name="GridCursor" Margin="0 100 0 0" Background="#FF0069C0" Width="10"
+                      HorizontalAlignment="Left" Height="60" VerticalAlignment="Top" />
+            </materialDesign:TransitioningContent>
+
+            <ListView x:Name="ListViewMenu" Margin="0 100" Foreground="LightGray" BorderThickness="0"
+                      FontFamily="Champagne &amp; Limousines" Background="Transparent"
+                      SelectionChanged="ListViewMenu_SelectionChanged">
+                <ListViewItem Height="60">
+                    <StackPanel Orientation="Horizontal">
+                        <materialDesign:PackIcon Kind="Home" Width="30" Height="30" VerticalAlignment="Center"
+                                                 Margin="5" />
+                        <TextBlock Text="Home" FontSize="26" VerticalAlignment="Center" Margin="20 0" />
+                    </StackPanel>
+                </ListViewItem>
+                <ListViewItem Height="60">
+                    <StackPanel Orientation="Horizontal">
+                        <materialDesign:PackIcon Kind="PersonAdd" Width="30" Height="30" VerticalAlignment="Center"
+                                                 Margin="5" />
+                        <TextBlock Text="Add Student" FontSize="26" VerticalAlignment="Center" Margin="20 0" />
+                    </StackPanel>
+                </ListViewItem>
+                <ListViewItem Height="60">
+                    <StackPanel Orientation="Horizontal">
+                        <materialDesign:PackIcon Kind="PersonAdd" Width="30" Height="30" VerticalAlignment="Center"
+                                                 Margin="5" />
+                        <TextBlock Text="Add Teacher" FontSize="26" VerticalAlignment="Center" Margin="20 0" />
+                    </StackPanel>
+                </ListViewItem>
+                <ListViewItem Height="60">
+                    <StackPanel Orientation="Horizontal">
+                        <materialDesign:PackIcon Kind="FormatListBulleted" Width="30" Height="30"
+                                                 VerticalAlignment="Center" Margin="5" />
+                        <TextBlock Text="List Student" FontSize="26" VerticalAlignment="Center" Margin="20 0" />
+                    </StackPanel>
+                </ListViewItem>
+                <ListViewItem Height="60">
+                    <StackPanel Orientation="Horizontal">
+                        <materialDesign:PackIcon Kind="FormatListBulleted" Width="30" Height="30"
+                                                 VerticalAlignment="Center" Margin="5" />
+                        <TextBlock Text="List Teacher" FontSize="26" VerticalAlignment="Center" Margin="20 0" />
+                    </StackPanel>
+                </ListViewItem>
+
+            </ListView>
+        </Grid>
+    </Grid>
+</Window>
